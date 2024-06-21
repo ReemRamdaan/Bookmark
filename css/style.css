@@ -1,0 +1,22 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grad
+{
+    background:linear-gradient(180deg,#eee ,#fff)
+}
+button:hover
+{
+    box-shadow:5px 3px 5px 3px rgb(76, 71, 71);
+}
+
+
+
+
+
+
+
+
+
+
